@@ -1,2 +1,2 @@
 # GameSnake
-This is popular game "Snake". Let's play!
+This is a popular game "Snake". Let's play!
